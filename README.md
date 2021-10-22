@@ -34,7 +34,7 @@ _Steps:_
 ```sh 
 yum insall docker -y
 systemctl start docker
-yum insall git -y
+yum install git -y
 git clone https://github.com/vyjith/simple_nginx_website
 cd simple_nginx_website
 docker build -t <your_name_image:tag> .
@@ -80,7 +80,7 @@ COPY . /usr/share/nginx/html/   <-----------------------------------------------
 
 The intention of this Repository is to create awareness about the Dockerfile and the usage of containerization.
 
-Please rechout to me if you have doubt regarding this.
+Please reach out to me if you have doubts regarding this. Thank you...
 
 
 ### ⚙️ Connect with Me
