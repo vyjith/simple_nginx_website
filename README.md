@@ -50,6 +50,6 @@ command line exaplation of docker run command
 
 Please find the below screenshot of the Docker building.
 
-![alt txt](https://prnt.sc/1x1gvhe)
+![alt txt](https://ibb.co/m5mzCTh)
 
 
