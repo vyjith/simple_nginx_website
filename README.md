@@ -62,5 +62,28 @@ creating a container from the image simple_nginx:10
 
 ![alt text](https://i.ibb.co/Ct2bn0M/image.png)
 
+-------------------------------------------------- 
+
+# Docker file explantion
+```sh
+# Dockerfile
+
+FROM nginx:alpine   <-------------------------------------------------- Base image
+
+WORKDIR /usr/share/nginx/html   <-------------------------------------------------- Image working directory
+
+COPY . /usr/share/nginx/html/   <-------------------------------------------------- Copying the index.hmtl file to the Working directory
+
+```
+
+# Conclusion
+
+The intention of this Repository is to create awareness about the Dockerfile and the usage of containerization.
+
+Please rechout to me if you have doubt regarding this.
 
 
+### ⚙️ Connect with Me
+<p align="center">
+<a href="https://www.instagram.com/iamvyjith/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vyjith-ks-3bb8b7173/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
