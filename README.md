@@ -24,7 +24,7 @@ Creating a nginx website with the help of Dockerfile
 # Insallation
 
 - [Dccker installation](https://docs.docker.com/engine/install/ubuntu/)
-- Alternatively from the above, you can use pre-installed [Docker Teaminal]((https://labs.play-with-docker.com/)(For the easy access to configured Docker environment especially for begineers)
+- Alternatively from the above, you can use pre-installed [Docker Teaminal]((https://labs.play-with-docker.com/) (For the easy access to configured Docker environment especially for begineers)
 - [Git insallation](https://git-scm.com/download/linux)
 
 -------------------------------------------------- 
