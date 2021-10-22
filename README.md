@@ -11,7 +11,7 @@ Creating a nginx website with the help of Dockerfile
 # Feature
 
 - A simple Docker file for image creation
-- Usage of Alpine OS as bas image to reduce the size of image that built.
+- Usage of Alpine OS as base image to reduce the size of image that built.
 
 -------------------------------------------------- 
 
