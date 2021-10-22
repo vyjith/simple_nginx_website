@@ -38,6 +38,13 @@ yum insall git -y
 git clone https://github.com/vyjith/simple_nginx_website
 cd simple_nginx_website
 docker build -t <your_name_image:tag> .
-#eg: docker build -t nginx_app:10 .
+#eg: docker build -t simple_nginx:10 .
 docker image ls <-------------------------------------------------- image will list here 
+docker run --rm -d -p 8080:80 simple_nginx  <-------------------------------------------------- Here we are running the image on port 8080
+command line exaplation of run command
+--rm                             Automatically remove the container when it exits
+-p, --publish list                   Publish a container's port(s) to the host
+-d, --detach                         Run container in background and print container ID
+```
+
 
