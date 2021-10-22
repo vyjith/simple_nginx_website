@@ -57,5 +57,10 @@ Please find the below screenshot of the Docker building an image.
 You can see that the below docker images (docker image ls)
 ![alt text](https://i.ibb.co/s9x62VH/image.png)
 
+-------------------------------------------------- 
+creating a container from the image simple_nginx:10
+
+![alt text](https://i.ibb.co/Ct2bn0M/image.png)
+
 
 
