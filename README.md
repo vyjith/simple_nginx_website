@@ -48,8 +48,12 @@ command line exaplation of docker run command
 ```
 -------------------------------------------------- 
 
-Please find the below screenshot of the Docker building.
+Please find the below screenshot of the Docker building an image.
 
 ![alt text](https://i.ibb.co/nMTksmQ/image.png)
+
+You can see that the below docker images (docker image ls)
+![alt text](https://i.ibb.co/s9x62VH/image.png)
+
 
 
